@@ -1,6 +1,6 @@
 # TUGAS BESAR DESAIN INTERAKSI
-## EduQuest: Petualangan Belajar Digital untuk Siswa Sekolah Dasar
-## Kelompok Kopi Ngebug
+## SuarTera: Aplikasi Pelaporan Fasilitas Kampus
+## Kelompok 06 Kopi Ngebug
 ## Kelas RA
 
 ```bash
@@ -15,8 +15,6 @@ Muhammad Arif Ardani         123140186
 # Deskripsi Tugas Besar
 Mahasiswa secara berkelompok akan merancang dan mengembangkan sebuah produk interaktif dalam bentuk high-fidelity prototype yang dapat digunakan dan diuji oleh pengguna nyata. Produk ini bisa berupa pengimplementasian pada platform mobile, website, perangkat wearable, atau sistem interaktif lainnya yang memberikan solusi atas permasalahan nyata. Setiap kelompok wajib melalui proses penelitian pengguna, perancangan, pembuatan prototipe, hingga pengujian produk tersebut ke pengguna akhir. Produk akhir ini bertujuan untuk memberikan gambaran pengalaman pengguna yang nyata dan valid sebagai dasar untuk pengembangan produk sesungguhnya.
 
-## Topik dan Subtopik yang di pilih
-Pemberdayaan Pendidikan Digital dengan subtopik gamifikasi pembelajaran dengan target user adalah anak sekolah dasar
 
 
 
