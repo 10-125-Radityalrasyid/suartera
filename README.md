@@ -28,4 +28,4 @@ Mahasiswa secara berkelompok akan merancang dan mengembangkan sebuah produk inte
 
 
 
-Link Proposal (https://s.itera.id/TMs04O)
+Link Proposal (https://s.itera.id/bZoLzy)
