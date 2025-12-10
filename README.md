@@ -1,5 +1,5 @@
 # TUGAS BESAR DESAIN INTERAKSI
-## SuarTera: Aplikasi Pelaporan Fasilitas Kampus
+## SuarTera: Aplikasi Pelaporan Kerusakan Fasilitas Kampus
 ## Kelompok 06 Kopi Ngebug
 ## Kelas RA
 
@@ -27,5 +27,7 @@ Mahasiswa secara berkelompok akan merancang dan mengembangkan sebuah produk inte
 
 
 
-
-Link Proposal (https://s.itera.id/bZoLzy)
+Link Prototipe:
+Link Proposal: (https://s.itera.id/bZoLzy)
+Link Laporan Akhir:
+Link Youtube:
