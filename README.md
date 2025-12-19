@@ -15,19 +15,11 @@ Muhammad Arif Ardani         123140186
 # Deskripsi Tugas Besar
 Mahasiswa secara berkelompok akan merancang dan mengembangkan sebuah produk interaktif dalam bentuk high-fidelity prototype yang dapat digunakan dan diuji oleh pengguna nyata. Produk ini bisa berupa pengimplementasian pada platform mobile, website, perangkat wearable, atau sistem interaktif lainnya yang memberikan solusi atas permasalahan nyata. Setiap kelompok wajib melalui proses penelitian pengguna, perancangan, pembuatan prototipe, hingga pengujian produk tersebut ke pengguna akhir. Produk akhir ini bertujuan untuk memberikan gambaran pengalaman pengguna yang nyata dan valid sebagai dasar untuk pengembangan produk sesungguhnya.
 
+### Link Youtube: https://s.itera.id/Video-SuarTera 
 
+### Link Prototype: https://s.itera.id/Prototype-SuarTera
 
+### Link Design Figma: https://s.itera.id/Design-SuarTera
 
+### Link Proposal: (https://s.itera.id/bZoLzy)
 
-
-
-
-
-
-
-
-
-Link Prototipe:
-Link Proposal: (https://s.itera.id/bZoLzy)
-Link Laporan Akhir:
-Link Youtube:
